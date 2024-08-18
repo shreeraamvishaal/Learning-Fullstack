@@ -1,13 +1,13 @@
-/* Remove default browser margins */
+
 body, html {
     margin: 0;
     padding: 0;
 }
   
-  /* Target the navigation bar container (adjust selector as needed) */
+
 .navbar-container {
-   margin: 0; /* Remove top margin */
-   padding: 0; /* Remove top padding */
+   margin: 0; 
+   padding: 0; 
 }
 .dropdown-container {
     width: 150px; 
@@ -22,7 +22,7 @@ body, html {
 }
 nav img {
     margin-left: 30px;
-    float: left; /* Or display: inline-block; */
+    float: left; 
 }
 nav {
     display: flex;
@@ -30,7 +30,7 @@ nav {
 }
   
 img {
-    margin-right: 10px; /* Adjust margin as needed */
+    margin-right: 10px; 
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -61,7 +61,7 @@ img {
     height: 20px;
 }
 .img11 {
-    margin-right: 15px; /* Adjust margin as needed */
+    margin-right: 15px;
     margin-top: 5px;
     margin-bottom: 5px;
     margin-left: 15px;
@@ -114,7 +114,7 @@ img {
   }
   
 .image-container img {
-    width: 100%; /* Adjust width as needed */
+    width: 100%;
     height: auto;
 }
   
@@ -123,8 +123,8 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white; /* Adjust text color */
-    font-size: 24px; /* Adjust font size */
+    color: white; 
+    font-size: 24px; 
 }
 .main-image{
     height: 200px;
